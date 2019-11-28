@@ -72,7 +72,7 @@ $ npm install antd babel-plugin-import --save
 import React from 'react';
 
 const Products = (props) => (
-  <h2>List of Products</h2>
+  return <h2>List of Products</h2>
 );
 
 export default Products;
